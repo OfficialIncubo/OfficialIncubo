@@ -44,7 +44,7 @@ Due to my other personal work or non-allocated time, the active development will
 | **Mushroom** | [@se7enslasher](https://mushroom.gg/se7enslasher) | |
 | **ROBLOX** | [@TheDeerSquadFan923](https://www.roblox.com/users/88025093/profile) | |
 | **GitHub** | [OfficialIncubo](https://github.com/OfficialIncubo) | |
-| **YTPMania (discontinued)**| [Incubo](https://ytpmania.net/u/se7enslasher) | |
+| **YTPMania (discontinued)**| [Incubo](https://ytpmania.net/u/incubo) | |
 | **Winamp Forum**| [Incubo_](https://forums.winamp.com/member/576741-incubo_) | It really whips the Llama's Ass! |
 
 # Random jokes, hah.
