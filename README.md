@@ -6,7 +6,7 @@
 
 # Introduction
 
-Hi! I'm Incubo_ (known as Se7enSlasher). My real name is Rotaru Alexandru-Ionuț, a 22 year old with disability (confirmed with Asperger) and an IQ above average. I'm a 2nd year student at Faculty of Automatic Control and Computer Engineering Iași. I'm also developing/producing high-quality standalone music visualizations for DJs, VJs, music listeners and everyone! I'm also fan of cartoons and such; some things that even not enumarated in, please see my personal site I've wrote few years ago http://officialincubo.carrd.co/ (may contain unsuitable infos, possibly).
+Hi! I'm Incubo_ (known as Se7enSlasher). My real name is Rotaru Alexandru-Ionuț, a 23 year old with disability (confirmed with Asperger) and an IQ above average. I'm a 3nd year student at Faculty of Automatic Control and Computer Engineering Iași. I'm developing/producing high-quality standalone music visualizations for DJs, VJs, music listeners and everyone! I'm also fan of cartoons and such; some things that even not enumarated in, please see my personal site I've wrote few years ago http://officialincubo.carrd.co/ (may contain unsuitable infos, possibly).
 
 # What I'm actively working on my open-source projects?
 
@@ -19,9 +19,13 @@ Well, some two of my beloved and fully-working standalone music visualizers I've
 Some note: both of these products requires Windows OS machine with necessary requirements, such as DirectX and runtime packages. As I'm a Windows guy, I had much experience on it.
 Due to my other personal work or non-allocated time, the active development will maintain slower and a gradual-pace. Whatever, if I'm having a full energy, it will move (a little bit faster).
 
+I really worked hard on these projects and some experiments for past years for exciting, enganging, interactive and lively experience. If you appreciate what I do, please consider supporting my hard work, so I can continue the development better and better! Just click this button below! :)
+
+<p align="center"><a href="https://ko-fi.com/officialincubo_" target="_blank"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Support me on Ko-fi!" height="48" border="0" /></a></p>
+
 # Additional infos
 
-- Age: 22
+- Age: 23
 - Gender: Male
 - Pronouns: he/him
 - Former hobbies: logo editing, video editing, piano player, TV ident capturer etc.
