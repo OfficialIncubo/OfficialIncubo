@@ -6,7 +6,7 @@
 
 # Introduction
 
-Hi! I'm Incubo_ (known as Se7enSlasher). My real name is Rotaru Alexandru-Ionuț, a 23 year old with disability (confirmed with Asperger) and an IQ above average. I'm a 3nd year student at Faculty of Automatic Control and Computer Engineering Iași. I'm developing/producing high-quality standalone music visualizations for DJs, VJs, music listeners and everyone! I'm also fan of cartoons and such; some things that even not enumarated in, please see my personal site I've wrote few years ago http://officialincubo.carrd.co/ (may contain unsuitable infos, possibly).
+Hi! I'm Incubo_ (known as Se7enSlasher). My real name is Rotaru Alexandru-Ionuț, a 23 year old man from Iași, Romania with disability (confirmed with Asperger) and an IQ above average. I'm a 3rd year student at Faculty of Automatic Control and Computer Engineering Iași. I'm developing/producing high-quality standalone music visualizations for DJs, VJs, music listeners and everyone! I'm also fan of cartoons and such; some things that even not enumarated in, please see my personal site I've wrote few years ago http://officialincubo.carrd.co/ (may contain unsuitable infos, possibly).
 
 # What I'm actively working on my open-source projects?
 
@@ -26,6 +26,7 @@ I really worked hard on these projects and some experiments for past years for e
 # Additional infos
 
 - Age: 23
+- Lives in: Iași, Romania
 - Gender: Male
 - Pronouns: he/him
 - Former hobbies: logo editing, video editing, piano player, TV ident capturer etc.
