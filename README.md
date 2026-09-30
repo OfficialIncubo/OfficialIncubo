@@ -2,7 +2,7 @@
   Welcome to my profile! Thanks for visiting! ;)
 </h1>
 
-[![My ](https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&duration=6500&pause=1500&color=20AEFF&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Incubo_!;A+guy+that+produces+some+great+standalone+music+visualizations...;...for+DJs+and+VJs!;...and+some+experiments+and+stuff+(possibly).;I'm+also+a+2nd+year+student...;...at+Faculty+of+Automatic+Control+and+Computer+Engineering+Ia%C8%99i)](https://git.io/typing-svg)
+[![My ](https://readme-typing-svg.demolab.com?font=Ubuntu&size=25&duration=6500&pause=1500&color=20AEFF&center=true&vCenter=true&width=1000&lines=Hey!+I'm+Incubo_!;A+guy+that+produces+some+great+standalone+music+visualizations...;...for+DJs+and+VJs!;...and+some+experiments+and+stuff+(possibly).;I'm+also+a+3rd+year+student...;...at+Faculty+of+Automatic+Control+and+Computer+Engineering+Ia%C8%99i)](https://git.io/typing-svg)
 
 # Introduction
 
