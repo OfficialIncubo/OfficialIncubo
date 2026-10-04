@@ -44,8 +44,7 @@ I really worked hard on these projects and some experiments for past years for e
 | **Twitter** | [@art_by_incubo_](https://twitter.com/art_by_incubo_) | Art Account (VERY inactive) |
 | **Instagram** | [officialincubo_](https://instagram.com/officialincubo_) | |
 | **TikTok** | [@officialincubo_](https://tiktok.com/@officialincubo_) | |
-| **Discord** | `damilkdropvisobsessor` | Main Discord |
-| **Discord** | `Incubo_ (Backup)#0506` | Backup Discord |
+| **Discord** | `damilkdropvisobsessor` ([redirect](https://discordapp.com/users/784688345791725580)) | Main Discord |
 | **Ko-fi** | [officialincubo_](https://ko-fi.com/officialincubo_) | Unfinished Ko-fi page; Useful to support my open-source development |
 | **Mushroom** | [@se7enslasher](https://mushroom.gg/se7enslasher) | |
 | **ROBLOX** | [@TheDeerSquadFan923](https://www.roblox.com/users/88025093/profile) | |
