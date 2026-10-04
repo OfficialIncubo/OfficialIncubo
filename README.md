@@ -46,6 +46,7 @@ I really worked hard on these projects and some experiments for past years for e
 | **TikTok** | [@officialincubo_](https://tiktok.com/@officialincubo_) | |
 | **Discord** | `damilkdropvisobsessor` ([redirect](https://discordapp.com/users/784688345791725580)) | Main Discord |
 | **Ko-fi** | [officialincubo_](https://ko-fi.com/officialincubo_) | Unfinished Ko-fi page; Useful to support my open-source development |
+| **itch.io** | [Incubo_](https://officialincubo.itch.io) | My itch.io page |
 | **Mushroom** | [@se7enslasher](https://mushroom.gg/se7enslasher) | |
 | **ROBLOX** | [@TheDeerSquadFan923](https://www.roblox.com/users/88025093/profile) | |
 | **GitHub** | [OfficialIncubo](https://github.com/OfficialIncubo) | |
